@@ -6,3 +6,7 @@ Objective: build an ML model by using ARIMA (AutoRegressive Integrated Moving Av
 
 1. fb_arima.ipynb: This notebook is to build an ARIMA model from Facebook stock price in August, 2021.
 2. forecast.ipynb: This notebook is to let you get the next minute forecast from Facebook/Meta open price.
+
+## instructions to get the forecast on the next minute:
+
+Just download the "forecast.ipynb" notebook and run it!
